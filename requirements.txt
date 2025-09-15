@@ -1,0 +1,5 @@
+crewai
+pandas
+openpyxl
+python-dotenv
+langchain-openai
